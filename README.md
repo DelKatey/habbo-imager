@@ -16,7 +16,7 @@ Afterwards, you can either save the image, or reset if unsatisfied.
 
 ## Notes
 
-If you wish to just get the link to the image on the site directly, you just need to direct the contents of the variable "`tempURL`" to, for instance, a textbox.
+If you wish to just get the link to the image on the site directly, you just need to direct the contents of the variable `tempURL` to, for instance, a textbox.
 
 ## Installation
 
