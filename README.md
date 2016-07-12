@@ -6,7 +6,7 @@ Don't like to keep opening a browser or visiting a site to generate avatars of H
 
 The usage of this program is quite simple.
 
-![How the program looks like on startup](/master/Screenshots/main.png?raw=true)
+![How the program looks like on startup](/Screenshots/main.png?raw=true)
 
 The Habbo name field has to be filled in with the name of the Habbo user. You then have to select which hotel they are from, with "International" being Habbo.COM.
 
