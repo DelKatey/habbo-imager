@@ -14,6 +14,10 @@ You can also customise the pose the avatar is in, with the gesture field, and ac
 
 Afterwards, you can either save the image, or reset if unsatisfied.
 
+## Notes
+
+If you wish to just get the link to the image on the site directly, you just need to direct the contents of the variable "`tempURL`" to, for instance, a textbox.
+
 ## Installation
 
 This was coded with Visual Studio 2010, using .NET Framework 4 Client Profile, and should thus be usable with any version of Visual Studio 2010 and up, as well as SharpDevelop. Compatibility wise, it should present no challenges in being converted to use a newer version of the .NET Framework.
